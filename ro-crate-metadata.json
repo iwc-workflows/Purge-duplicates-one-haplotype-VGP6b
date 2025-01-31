@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-08-15T16:24:05.666144",
+            "datePublished": "2025-01-31T23:43:40.086123",
             "hasPart": [
                 {
                     "@id": "Purging-duplicates-one-haplotype-VGP6b.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#37f17ef7-119f-4b89-a6e9-530145c3f9ac"
+                    "@id": "#21103dda-9621-42f4-8025-cade8bb35208"
                 },
                 {
                     "@id": "https://vertebrategenomeproject.org"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/Purge-duplicates-one-haplotype-VGP6b",
-            "version": "0.7.1"
+            "version": "0.7.2"
         },
         {
             "@id": "#galaxy",
@@ -90,7 +90,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#37f17ef7-119f-4b89-a6e9-530145c3f9ac",
+            "@id": "#21103dda-9621-42f4-8025-cade8bb35208",
             "@type": "Organization",
             "name": "Galaxy"
         },
@@ -146,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.25"
+            "engineVersion": ">=0.75.26"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
